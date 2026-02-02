@@ -20,6 +20,6 @@
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@steipete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/maxarden0)
-[![Blog](https://img.shields.io/badge/-steipete.me-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://i@yuanzhixiang.com)
+[![Twitter](https://img.shields.io/badge/-@yuanzhixiang-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/maxarden0)
+[![Blog](https://img.shields.io/badge/-yuanzhixiang.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://i@yuanzhixiang.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yuanzhixiang)
