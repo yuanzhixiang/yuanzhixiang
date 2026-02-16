@@ -12,6 +12,7 @@
 
 ## Current Projects
 
+- **[epub-reader.org](https://github.com/yuanzhixiang/epub-reader.org)** – A fast, clean, no-distraction EPUB reader in your browser.
 - **[OpenClawX](https://github.com/yuanzhixiang/openclawx)** - the X for Agents
 
 ## GitHub Activity
